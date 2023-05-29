@@ -1,0 +1,16 @@
+main {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+
+section {
+    display: flex;
+    flex-flow: column;
+    position: relative;
+    height: 25vh;
+    border-bottom: solid 0.5px;
+    border-color: orange;
+}
+
