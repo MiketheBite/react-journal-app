@@ -1,0 +1,43 @@
+.entry-form {
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .entry-form form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .form_title {
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 70px;
+  }
+  
+  .entry-form label {
+    margin: 30px 0px 8px 0px;
+    font-weight: bold;
+  }
+  
+  .entry-form input,
+  .entry-form textarea {
+    padding: 10px;
+    border: 1px solid var(--color-water-10);
+    border-radius: 4px;
+  }
+  
+  .entry-form button {
+    padding: 10px 20px;
+    background-color: var(--color-nemo);
+    color: var(--color-foam);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .entry-form button:hover {
+    background-color: var(--color-foam);
+    color: var(--color-nemo);
+  }
+  
