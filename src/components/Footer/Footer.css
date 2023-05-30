@@ -1,11 +1,11 @@
 footer {
-  position: fixed;
   background-color: var(--color-granite);
   padding: 20px;
-  text-align: center;
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .footer_text {
-  text-align: center;
   color: var(--color-foam);
 }

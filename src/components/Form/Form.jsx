@@ -2,7 +2,7 @@ import "./Form.css";
 
 import React from "react";
 
-export function Form() {
+export default function Form() {
   return (
     <section className="entry-form">
       <form>

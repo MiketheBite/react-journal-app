@@ -1,16 +1,8 @@
-main {
+.main-section {
+    background-color: var(--color-foam);
+    padding: 20px;
     display: flex;
-    flex-flow: column;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
-}
-
-
-section {
-    display: flex;
-    flex-flow: column;
-    position: relative;
-    height: 25vh;
-    border-bottom: solid 0.5px;
-    border-color: orange;
-}
-
+  }
