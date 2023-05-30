@@ -1,10 +1,10 @@
 import "./MainSection.css";
-import { Form } from "../Form/Form";
-import { EntryList } from "../EntryList/EntryList";
-import { Tabs } from "../Tabs/Tabs";
+import { Form } from "../Form/Form.jsx";
+import { EntryList } from "../EntryList/EntryList.jsx";
+import { Tabs } from "../Tabs/Tabs.jsx";
 
 
-export function Main() {
+export function MainSection() {
     return (
         <div>
             <Form />

@@ -1,8 +1,8 @@
 
 import './App.css'
-import { Header } from './components/Header/Header'
-import { MainSection } from './components/MainSection/MainSection'
-import { Footer } from './components/Footer/Footer'
+import { Header } from './components/Header/Header.jsx'
+import { MainSection } from './components/MainSection/MainSection.jsx'
+import { Footer } from './components/Footer/Footer.jsx'
 
 
 

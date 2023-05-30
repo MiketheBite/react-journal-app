@@ -5,5 +5,5 @@ export default function Footer() {
         <footer>
             <p className="footer_text">Journal App – 2028</p>
         </footer>
-)
+    );
 }
